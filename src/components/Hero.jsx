@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Hero() {
   return (
     <div>
-      <section className="min-h-screen flex items-center">
+      <section className="flex items-center">
         <div className="grid gap-10 md:grid-cols-2 items-center w-full">
           <div>
             <p className="text-xs text-sky-400 mb-2 uppercase tracking-wide">
